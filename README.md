@@ -29,6 +29,7 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
 
 - JavaScript Rock 'Em Sock 'Em Robots
 - Gig Map
+  - [x] [songkick-gig-map](https://github.com/thisoldbear/songkick-gig-map)
 - Online Recipe Book
 - Static Personal Site
 - Email Template Builder
