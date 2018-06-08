@@ -6,6 +6,7 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
 
 - [Express](https://www.contentful.com/)
   - [x] [express-ejs-starter](https://github.com/thisoldbear/express-ejs-starter)
+  - [x] [node-fetch-example](https://github.com/thisoldbear/node-fetch-example)
 
 ## JavaScript
 
