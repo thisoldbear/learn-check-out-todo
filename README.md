@@ -12,10 +12,10 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
 
 - [React JS](https://github.com/facebook/react)
   - [x] [react-youtube-search](https://github.com/thisoldbear/react-youtube-search)
-  - [x] [react-book-list](https://github.com/thisoldbear/react-book-list)
-  - [x] [react-weather-search](https://github.com/thisoldbear/react-weather-search)
 - [Redux](https://github.com/reduxjs/redux)
 - [React Redux](https://github.com/reduxjs/react-redux)
+  - [x] [react-book-list](https://github.com/thisoldbear/react-book-list)
+  - [x] [react-weather-search](https://github.com/thisoldbear/react-weather-search)
 
 ## Unit Testing
 
