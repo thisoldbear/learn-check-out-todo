@@ -11,7 +11,8 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
 ## JavaScript
 
 - [React JS](https://github.com/facebook/react)
-  - [x] [ReactSimpleStarter](https://github.com/thisoldbear/ReactSimpleStarter)
+  - [x] [react-simple-starter](https://github.com/thisoldbear/react-simple-starter)
+  - [x] [react-book-list](https://github.com/thisoldbear/react-book-list)
 - [Redux](https://github.com/reduxjs/redux)
 - [React Redux](https://github.com/reduxjs/react-redux)
 
