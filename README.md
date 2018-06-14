@@ -17,6 +17,7 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
   - [x] [react-book-list](https://github.com/thisoldbear/react-book-list)
   - [x] [react-weather-search](https://github.com/thisoldbear/react-weather-search)
   - [x] [react-weather-map](https://github.com/thisoldbear/react-weather-map)
+  - [x] [react-router-and-redux-form](https://github.com/thisoldbear/react-router-and-redux-form)
 
 ## Unit Testing
 
