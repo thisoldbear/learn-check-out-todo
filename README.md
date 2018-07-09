@@ -39,3 +39,6 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
 - Static Personal Site
 - Email Template Builder
 - Seinfeld Quote Sentiment Analyzer
+  - [x] [sentimental-seinfeld](https://github.com/thisoldbear/sentimental-seinfeld)
+- Twitter Bot
+  - [x] [kramer-is-thirsty](https://github.com/thisoldbear/kramer-is-thirsty)
