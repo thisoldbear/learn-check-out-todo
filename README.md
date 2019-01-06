@@ -27,6 +27,7 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
 
 - [Contentful CMS](https://www.contentful.com/)
 - [Gatsby](https://www.contentful.com/)
+  - [x] [react-gatsby-markdown](https://github.com/thisoldbear/react-gatsby-markdown)
 - [GraphQL](https://www.contentful.com/)
   - [x] [express-apollo-graphql-example](https://github.com/thisoldbear/express-apollo-graphql-example)
 
