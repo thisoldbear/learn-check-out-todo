@@ -7,6 +7,7 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
 - [Express](https://www.contentful.com/)
   - [x] [express-ejs-starter](https://github.com/thisoldbear/express-ejs-starter)
   - [x] [node-fetch-example](https://github.com/thisoldbear/node-fetch-example)
+  - [x] [punk-rock-graphql](https://github.com/thisoldbear/punk-rock-graphql)
 
 ## JavaScript
 
@@ -31,7 +32,7 @@ A list of tech to learn/checkout, make projects/experiments with and commit to m
 - [GraphQL](https://www.contentful.com/)
   - [x] [express-apollo-graphql-example](https://github.com/thisoldbear/express-apollo-graphql-example)
 
-## Projects
+## Project ideas
 
 - JavaScript Rock 'Em Sock 'Em Robots
 - Gig Map
